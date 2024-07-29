@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chokoskoder
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning cpp , html and css
-- 💞️ I’m looking to collaborate on projects where i can help jn anyway and learn 
+- :briefcase: I’m looking to collaborate on projects where i can help jn anyway and learn 
 - 📫 How to reach me chokoskoder@gmail.com
 
 <!---
